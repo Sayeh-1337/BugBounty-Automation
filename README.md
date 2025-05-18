@@ -15,17 +15,17 @@ This suite of tools is for **EDUCATIONAL PURPOSES ONLY**. Always:
 ### 1. Bug Bounty Automation
 A comprehensive automation tool for bug bounty hunting and penetration testing that combines multiple reconnaissance and vulnerability scanning tools into a single workflow.
 
-[View Bug Bounty Tool Documentation](bug-bounty/README.md)
+[View Bug Bounty Tool Documentation](bug-bounty-automation/bug-bounty/README.md)
 
 ### 2. Mobile Security Analysis
 A powerful automation tool for mobile application security analysis using Mobile Security Framework (MobSF). Provides a streamlined workflow for analyzing Android and iOS applications for security vulnerabilities.
 
-[View Mobile Security Tool Documentation](mobile-security/README.md)
+[View Mobile Security Tool Documentation](bug-bounty-automation/mobile-security/README.md)
 
 ### 3. Chrome Extension Security Analysis
 A specialized tool for analyzing the security of Chrome browser extensions. Helps identify potential security vulnerabilities and provides recommendations for improving extension security.
 
-[View Extension Security Tool Documentation](extension-security/README.md)
+[View Extension Security Tool Documentation](bug-bounty-automation/extension-security/README.md)
 
 ## 📋 Prerequisites
 
