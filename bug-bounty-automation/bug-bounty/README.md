@@ -56,8 +56,8 @@ kiterunner
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/bug-bounty-automation.git
-cd bug-bounty-automation
+git clone https://github.com/Sayeh-1337/BugBounty-Automation.git
+cd BugBounty-Automation/bug-bounty-automation/bug-bounty
 ```
 
 2. Make the script executable:

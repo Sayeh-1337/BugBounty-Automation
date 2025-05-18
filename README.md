@@ -35,8 +35,8 @@ Each tool has its own specific prerequisites. Please refer to the individual too
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Sayeh-1337/security-automation-suite.git
-cd security-automation-suite
+git clone https://github.com/Sayeh-1337/BugBounty-Automation.git
+cd BugBounty-Automation
 ```
 
 2. Follow the installation instructions for each tool in their respective directories.

@@ -58,8 +58,8 @@ sudo apt install jq
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Sayeh-1337/extension-security-analysis.git
-cd extension-security-analysis
+git clone https://github.com/Sayeh-1337/BugBounty-Automation.git
+cd BugBounty-Automation/bug-bounty-automation/extension-security-analysis
 ```
 
 2. Make the script executable:

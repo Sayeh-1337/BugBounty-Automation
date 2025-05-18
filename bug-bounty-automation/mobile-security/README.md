@@ -67,8 +67,8 @@ cd Mobile-Security-Framework-MobSF
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Sayeh-1337/mobile-security-analysis.git
-cd mobile-security-analysis
+git clone https://github.com/Sayeh-1337/BugBounty-Automation.git
+cd BugBounty-Automation/bug-bounty-automation/mobile-security-analysis
 ```
 
 2. Make the script executable:
